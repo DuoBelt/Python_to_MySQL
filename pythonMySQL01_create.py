@@ -5,7 +5,7 @@
 import MySQLdb
 
 # Open database connection
-db = MySQLdb.connect("localhost","testuser","test123","TESTDB" )
+db = MySQLdb.connect("localhost","testuser","test123","test002" )
 #db = MySQLdb.connect("localhost","nurur","","TESTDB")
 
 
